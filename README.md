@@ -42,7 +42,6 @@ A simple ATM Management System developed using C language.
 
 ## Sample Output
 
-```text
 ===== ATM MANAGEMENT SYSTEM =====
 
 Enter PIN: 1234
