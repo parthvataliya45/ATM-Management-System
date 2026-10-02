@@ -55,3 +55,9 @@ Enter PIN: 1234
 Enter your choice: 1
 
 Current Balance = Rs. 5000.00
+
+## Sample Output
+
+![ATM Output](atm-output.png)
+
+The above screenshot shows the ATM menu and balance checking operation.
